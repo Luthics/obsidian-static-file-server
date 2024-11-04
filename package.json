@@ -1,7 +1,7 @@
 {
   "name": "obsidian-static-file-server",
   "version": "0.0.5",
-  "description": "Host obsidian subfolders as static file servers.",
+  "description": "Host obsidian subfolders as static file servers. ",
   "main": "main.js",
   "scripts": {
     "prettier-format": "prettier --config .prettierrc.js *.ts --write",
