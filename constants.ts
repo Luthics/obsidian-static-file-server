@@ -16,5 +16,6 @@ export const mimeType = {
     '.zip': 'application/zip',
     '.doc': 'application/msword',
     '.eot': 'application/vnd.ms-fontobject',
-    '.ttf': 'application/x-font-ttf'
+    '.ttf': 'application/x-font-ttf',
+    '.ics': 'text/calendar',
 };
